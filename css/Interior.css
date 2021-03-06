@@ -1,0 +1,23 @@
+/*Section*/
+.section{
+background: url("../images/background layih.jpg");
+background-size: cover;
+-webkit-background-size: cover;
+min-height: 100vh;
+padding: 10px;
+}
+.gallery{
+margin-top: 20px;
+padding: 10px 0 10px 10px;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+.gallery a{
+margin: 0 15px 15px 0;
+}
+.gallery img{
+display: block;
+width: 210px;
+height: 150px;
+}

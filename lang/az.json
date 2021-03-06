@@ -1,0 +1,70 @@
+{
+  "head": {
+  "tittleext": "Exterier",
+  "tittleint": "Interior",
+  "tittlecont": "Əlaqə",
+  "tittleab": "Haqqımızda",
+  "tittleequa": "Keyfiyyət",
+  "tittleoprj": "Laihələrimiz"
+  },
+  ".linav": {
+  "our_proj": "Laihələr",
+  "interior": "Interior",
+  "exterier": "Exterier",
+  "quality": "Keyfiyyət",
+  "contacts": "Əlaqə",
+  "about": "Haqqımızda"
+  },
+  ".d": {
+  "design": "Dizayn"
+  },
+  ".listhover": {
+  "our_proj_footer": "Laihələrimiz",
+  "interior_footer": "Interior",
+  "exterier_footer": "Exterier",
+  "quality_footer": "Keyfiyyət",
+  "contacts_footer": "Əlaqə",
+  "about_footer": "Haqqımızda"
+  },
+  ".googleurl": {
+  "mainloc_footer": "Xırdalan şəh. H.Əliyev 263"
+  },
+  ".conteiner": {
+  "maptext": "Bizi tapın!",
+  "house": "images/Ярлык.png"
+  },
+  ".informain": {
+  "ab1": "Tikinti şirkəti haqqında",
+  "ab2": "Yeni yaşayış kompleksini Nuray House MTK şirkəti inşa edir. Şirkət Xırdalan ərazisində daşınmaz əmlak tikintisi ilə məşğul olur.",
+  "ab3": "Yerləşməsi",
+  "ab4": "Nuray House MTK” yaşayış kompleksi Xırdalanda Heydər Əliyev prospekti 263 ünvanında, şəhər bağçasından bir neçə yüz metr məsafədə yerləşir. Ceyranbatan su anbarına qədər 700 metr məsafədir.",
+  "ab6": "Ətraf mühiti",
+  "ab7": "Yeni kompleks ilə qonşuluqda aptek, bir neçə banklar, müxtəlif mağazalar, şəbəkə əsupermarketləri və mini- marketlər yerləşir. Yaxınlıqda çoxlu kafelər, restoranlar və ticarət mərkəzi fəaliyyət göstərir.",
+  "ab8": "Yarım kilometr məsafədə 7 saylı orta məktəb yerləşir, 5 saylı məktəbə qədər isə 700 metrdən bir az məsafə var. Bakı Dövlət İqtisadiyyat və Humanitar Kolleci kompleksdən iki kilometr məsafədədir, yaxınlıqda 'Guven Kursu' məktəbi və 'Azimut' təhsil mərkəzi, eləcə də daha bir neçə təhsil müəssisələri mövcuddur.",
+  "ab9": "Nəqliyyatı haqqında",
+  "ab10": "Yaxın şəhər nəqliyyatı dayanacağına bir dəqiqəyə çatmaq olar. Heydər Əliyev prospekti ilə şəhərin istənilən nöqtəsinə tez çatmağa imkan bir neçə avtobus marşrutları fəaliyyət göstərir. Dəmir yolu vağzalıyeni tikilidən üç kilometrlik məsafədə yerləşir.",
+  "ab11": "Memarlıq",
+  "ab12": "'Nuray House MTK' yaşayış kompleksi yerli iqlim xüsusiyyətləri nəzərə alınmaqla inşa edilən düz damı olan üç on altı mərtəbəli evlərdən ibarətdir. Yeni binanın birinci mərhələsi 2018-ci ildə istifadəyə verildi. Hər korpusun möhkəm dəmir beton çərçivəsi var. Yeni tikili əla zəlzələ davamlılığı göstəricilərinə malikdir. Xarici divarların davamlı, ekoloji cəhətdən təhlükəsiz istilik izolyatoru ilə izolyasiyası müasir tələblərə uyğun olan yüksək səviyyədə enerji səmərəliliyini təmin edir. Fasad izolyosiyalı boya örtüyü ilə üzlənibdir. Kompleksdə açıq şüşələnməmiş eyvanlar, eləcə də ikiqat şüşələrlə şüşələnmiş metal-plastik pəncərələr nəzərdə tutulub. Binalara isti su və qaz da daxil olmaqla, şəhərin mərkəzi mühəndislik kommunikasiyaları çəkilibdir. Hər bir korpusda iki lift quraşdırılır. Blokların girişində domofonlar guraşdırılıb. Qaz daxil olmaqla, bütün zəruri mühəndis kommunikasiyaları çəkilir. Mənzillərdə istilik – fərdidir. Evlərə internet və peyk televiziyası qoşulur.",
+  "ab13": "Abadlıq işləri",
+  "ab14": "'Nuray House MTK' yaşayış kompleksinin ərazisində avtomobil və piyada yolları çəkilir, küçə işıqları və videomüşahidə kameraları quraşdırılır. Burada ağaclar, müxtəlif kollar əkilir, balaca gül-ləkləri salınır. Avtomobillərin müvəqqəti dayanacağı üçün qonaq parkovka yerləri yaradılır, sakinlərin avtomobilləri üçün isə yeraltı parkinq tikilir. Həyətdə istirahət zonası və müxtəlif yaşlı uşaqların oynaya biləcəyi slaydlar və yelləncəklər ilə bir oyun meydançası yaradılacaq. Həmçinin, yaşayış kompleksində öz uşaq bağçasının və məktəblərinin açılması planlaşdırılıb.",
+  "ab15": "Yaşayış fondunun həyata keçirilməsi",
+  "ab16": "Yeni yaşayış kompleksində tavanlarının hündürlüyü 3,2 metr və müasir praktik planlaşdırması olan mənzillərin satışı həyata keçirilir. Seçim üçün sahəsi 55-114 kv. m olan bir-, iki-, üç otaqlı mənzillər təklif olunur. Yaşayış daşınmaz əmlakı həm bəzək işləri olmadan, həm də keyfiyyətli təmir ilə əldə etmək olar. Sosial şəbəkənin rəsmi saytında mənzillərin daxili təkmilləşdirməsi ilə tanış olmaq olar. Tikinti şirkəti ödəniş kimi nağd puldan istifadə edir. Bundan başqa, 36 ay müddətinə faizsiz kredit ilə və ya kupçanı rəsmiləşdirərək mənzil ala bilərsiniz. Satış şərtləri ilə satış ofisində tanış ola bilərsiniz."
+  },
+  ".XLa": {
+  "ab5": "Xırdalan layıhəsi"
+  },
+  ".textcont": {
+  "mobile": "Mobil",
+  "telephone": "Telefon",
+  "mainoff": "Baş ofis",
+  "mainloc": "Xırdalan şəh. H.Əliyev 263"
+  },
+  ".galleryh1": {
+  "1bl": "Birinci block",
+  "2bl": "Ikinci block",
+  "3bl": "Üçüncü block",
+  "fittings": "Armatur",
+  "windows": "Pəncərəllər",
+  "elevator": "Lift"
+  }
+}

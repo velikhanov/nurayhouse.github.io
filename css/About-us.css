@@ -1,0 +1,118 @@
+/*Section*/
+.section{
+background: url("../images/Contacts/backgroundcont.png") no-repeat;
+background-size: cover;
+-webkit-background-size: cover;
+width: 100%;
+}
+.mainblock{
+display: flex;
+}
+.videogeneral{
+display: flex;
+justify-content: flex-end;
+}
+.XLa{
+margin-top: 20px;
+text-align: center;
+color: blue;
+font-family: 'Kaushan Script', cursive;
+text-decoration: none;
+}
+.inf1, .inf2{
+text-align: justify;
+}
+.inf1{
+font-family: 'Kaushan Script', cursive;
+color: blue;
+font-weight: bold;
+}
+.inf2{
+color: #240158;
+font-family: 'Lobster', cursive;
+font-weight: normal;
+}
+.inf1, .inf2{
+margin-bottom: 10px;
+}
+.inf2.last{
+margin-bottom: 0;
+padding-bottom: 20px
+}
+.videothumb{
+margin: 20px 0 0 20px;
+width: 455px;
+height: 215.6px;
+}
+@media only screen and (max-width: 1230px),
+only screen and (max-device-width: 1230px){
+.informain{
+padding: 0 10px;
+}
+.videothumb{
+margin-right: 10px;
+}
+}
+@media only screen and (max-width: 1200px),
+only screen and (max-device-width: 1200px){
+.mainblock{
+display: block;
+}
+.inf1.first{
+padding-top: 5px;
+}
+.videogeneral{
+justify-content: center;
+}
+.videothumb{
+margin: 5px 0 0 5px;
+}
+.inf2.second{
+margin-bottom: 0;
+}
+.inf1, .inf2{
+padding: 0 20px;
+}
+.XLa{
+margin: 0;
+}
+}
+@media only screen and (max-width: 870px),
+only screen and (max-device-width: 870px){
+.XLa{
+margin-top: 0px;
+}
+.inf1{
+padding-top: 5px;
+}
+.inf1, .inf2{
+padding: 0 10px;
+}
+}
+@media only screen and (max-width: 500px),
+only screen and (max-device-width: 500px){
+.section{
+background: #e0e0e0 /*url("../images/background layih.jpg")*/;
+/*background-size: cover;
+-webkit-background-size: cover;*/
+}
+.videothumb{
+width: 303.3px;
+height: 143.7px;
+margin: 5px 5px 0 5px;
+}
+}
+@media only screen and (max-width: 330px),
+only screen and (max-device-width: 330px){
+.videothumb{
+width: 260px;
+height: 123.2px;
+}
+}
+@media only screen and (max-width: 280px),
+only screen and (max-device-width: 280px){
+.videothumb{
+width: 227.5px;
+height: 107.8px;
+}
+}

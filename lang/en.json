@@ -1,0 +1,70 @@
+{
+  "head": {
+  "tittleext": "Exterier",
+  "tittleint": "Interior",
+  "tittlecont": "Contacts",
+  "tittleab": "About us",
+  "tittleequa": "Quality",
+  "tittleoprj": "Our projects"
+  },
+  ".linav": {
+  "our_proj": "Our projects",
+  "interior": "Interior",
+  "exterier": "Exterier",
+  "quality": "Keyfiyyət",
+  "contacts": "Əlaqə",
+  "about": "Haqqımızda"
+  },
+  ".d": {
+  "design": "Design"
+  },
+  ".listhover": {
+  "our_proj_footer": "Our projects",
+  "interior_footer": "Interior",
+  "exterier_footer": "Exterier",
+  "quality_footer": "Quality",
+  "contacts_footer": "Contacts",
+  "about_footer": "About us"
+  },
+  ".googleurl": {
+  "mainloc_footer": "Khirdalan city, G. Aliyev 263"
+  },
+  ".conteiner": {
+  "maptext": "Find us!",
+  "house": "images/Ярлыканг.png"
+  },
+  ".informain": {
+  "ab1": "About company",
+  "ab2": "The new residential complex is being built by Nuray House MTK. The company is engaged in the construction of real estate in Khirdalan.",
+  "ab3": "Location",
+  "ab4": "The Nuray House MTK residential complex is located on Heydar Aliyev Avenue, 263 in Khirdalan, a few hundred meters from the city garden. It is 700 meters from the Jeyranbatan reservoir.",
+  "ab6": "Environment",
+  "ab7": "In the vicinity of the new complex there is a pharmacy, several banks, various shops, a supermarket and mini-market. There are many cafes, restaurants and a shopping center nearby.",
+  "ab8": "Secondary School No. 7 is half a kilometer away, and School No. 5 is 700 meters away. The Baku State College of Economics and Humanities is located two kilometers from the complex, nearby are the Guven Kursu school and the Azimut training center, as well as several other educational institutions.",
+  "ab9": "Public transport",
+  "ab10": "You can reach the nearest city bus stop in a minute. There are several bus routes along Heydar Aliyev Avenue to quickly reach any part of the city. The railway station is located three kilometers from the new building.",
+  "ab11": "Architecture",
+  "ab12":"The residential complex 'Nuray House MTK' consists of three sixteen-storey houses with flat roofs, built taking into account local climatic functions. The first phase of the new building was commissioned in 2018. Each building has a solid reinforced concrete frame. The new building has excellent earthquake resistance. Thermal insulation of external walls with a durable, environmentally friendly heat insulator provides a high level of energy efficiency, modern requirements. The facade is covered with insulated paint. The complex has open unglazed balconies, as well as double-glazed windows with metal-plastic windows. The buildings are connected to the central city communications, including hot water and gas. Two lifts are installed in each building. Intercoms are installed at the entrance to the blocks. All necessary utilities, including gas, are pledged. Heating in the apartments is individual. The houses are connected to the Internet and satellite TV.",
+  "ab13": "Renovation work",
+  "ab14": "Roads and sidewalks are being built, street lights and CCTV cameras are being installed in the Nuray House MTK residential complex. Trees and various shrubs have been planted here, as well as small flowers. Guest parking lots are created for temporary parking, and underground parking for residents' cars. In the yard there will be a recreation area and a playground with slides and swings for children of different ages. It is also planned to open its own kindergarten and school in the residential complex.",
+  "ab15": "Realization of housing stock",
+  "ab16": "The new residential complex sells apartments with a ceiling height of 3.2 meters and a modern practical layout. The area to choose from 55-114 sq.m. One-, two-, three-room apartments are offered. Residential real estate can be purchased without finishing or with high-quality repairs. You can familiarize yourself with the interior renovation of apartments on the official website of the social network. The construction company uses cash as payment. In addition, you can buy an apartment for 36 months with an interest-free loan or a voucher. You can get acquainted with the terms of sale at the sales office."
+  },
+  ".XLa": {
+  "ab5": "Khirdalan project"
+  },
+  ".textcont": {
+  "mobile": "Mobile",
+  "telephone": "Phone",
+  "mainoff": "Main officce",
+  "mainloc": "Khirdalan city, G. Aliyev 263"
+  },
+  ".galleryh1": {
+  "1bl": "First block",
+  "2bl": "Second block",
+  "3bl": "Third block",
+  "fittings": "Fittings",
+  "windows": "Windows",
+  "elevator": "Elevator"
+  }
+}

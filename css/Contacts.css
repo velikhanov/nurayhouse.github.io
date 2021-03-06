@@ -1,0 +1,79 @@
+/*Section*/
+.section{
+background: url("../images/Contacts/backgroundcont.png") no-repeat;
+background-size: cover;
+-webkit-background-size: cover;
+width: 100%;
+}
+.section2{
+width: 100%;
+height: 140px;
+background-color: #cecece;
+background-size: cover;
+-webkit-background-size: cover;
+position: absolute;
+margin-top: 20px;
+opacity: .5;
+}
+.contactsimg{
+padding-top: 30px;
+display: flex;
+justify-content: space-around;
+position: relative;
+}
+.contimg1, .contimg2, .contimg3, .contimg4{
+vertical-align: top;
+margin-bottom: 20px;
+}
+.contimg1{
+width: 32px;
+height: 51.2px;
+}
+.contimg2, .contimg3{
+width: 38.4px;
+height: 51.2px;
+}
+.contimg4{
+width: 51.2px;
+height: 51.2px;
+}
+.textcont{
+text-align: center;
+}
+.googlemapcont{
+width: 100%;
+height: 500px;
+margin: 20px 0;
+}
+@media only screen and (max-width: 1200px),
+only screen and (max-device-width: 1200px){
+/*Section*/
+.googlemapcont{
+width: 100%;
+right: 100px;
+left: 100px;
+}
+.contactsimg{
+display: grid;
+grid-template-columns: 50% 50%;
+}
+.section2{
+display: none;
+}
+.contimg3, .contimg4{
+margin-top: 10px;
+}
+.googlemapblock{
+margin: 0 10px;
+}
+}
+@media only screen and (max-width: 630px),
+only screen and (max-device-width: 630px){
+/*Section*/
+.contactsimg{
+grid-template-columns: 100%;
+}
+.contimg2{
+margin-top: 10px;
+}
+}
